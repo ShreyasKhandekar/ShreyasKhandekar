@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyasKhandekar
-- 🌱 I’m a core developer of the [Chapel](chapel-lang.org) programming language working at Hewlett Packard Enterprise
+- 🌱 I’m a core developer of the [Chapel](https://chapel-lang.org/) programming language working at Hewlett Packard Enterprise
 - 📫 Learn more at my website: www.shreyaskhandekar.com 
 
 <!---
