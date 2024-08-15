@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyasKhandekar
-- 🌱 I’m currently studying at the University of Arizona for Undergraduate Degrees in Computer Science and Management Information Systems
+- 🌱 I’m a core developer of the [Chapel](chapel-lang.org) programming language working at Hewlett Packard Enterprise
 - 📫 Learn more at my website: www.shreyaskhandekar.com 
 
 <!---
